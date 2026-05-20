@@ -15,5 +15,5 @@
 <pre>py main.py</pre>
 
 <p>Default inbult camera refers to 0. incase if you are using external camera change 0 to 1 or so on in line <pre>[cam = cv2.VideoCapture(0, cv2.CAP_DSHOW)</pre></p>
-<p>Pres 'q' to exit.</p>
+<p style="colo: red;">Pres 'q' to exit.</p>
 
